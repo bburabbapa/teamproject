@@ -7,9 +7,10 @@
 		<title>Insert title here</title>
 	</head>
 	<body>
-		<a href="u_insert.jsp"><h3>회원가입</h3></a>
-		<a href="u_login.jsp"><h3>로그인</h3></a>
-		<a href="g_main.jsp"><h3>모임</h3></a>
-		
+		<ul>
+			<li>검색(모달창?)</li>
+			<li><a href="g_view.jsp">모임리스트(검색후에는 검색결과)</a></li>
+		</ul>
+	
 	</body>
 </html>

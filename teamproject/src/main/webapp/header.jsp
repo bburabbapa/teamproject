@@ -7,9 +7,12 @@
 		<title>Insert title here</title>
 	</head>
 	<body>
-		<a href="u_insert.jsp"><h3>회원가입</h3></a>
-		<a href="u_login.jsp"><h3>로그인</h3></a>
-		<a href="g_main.jsp"><h3>모임</h3></a>
-		
+		<ul>
+			<li>로고</li>
+			<li>로그인/로그아웃</li>
+			<li><a href="u_mypage.jsp">mypage/회원가입</a></li>
+			<li>공지사항</li>
+		</ul>
+	
 	</body>
 </html>
